@@ -1,4 +1,4 @@
-# xuexitong-paste
+# fuck-with-no-pasting
 
 学习通（超星）作业编辑器粘贴解禁脚本。一个 Tampermonkey（油猴）用户脚本，用来恢复学习通网页版作业编辑框被禁用的复制 / 粘贴功能。
 
